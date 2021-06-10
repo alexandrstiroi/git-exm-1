@@ -7,7 +7,9 @@ and open the template in the editor.
     Created on : 10 июн. 2021 г., 09:59:24
     Author     : Shtiroy.a
 */
-
+body {
+	background : #F8F8F8;
+}
 h1 {
     color: red;
 }
